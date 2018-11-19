@@ -1,0 +1,14 @@
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\MainWindow.g.cs
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\App.g.cs
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\Encryption_MarkupCompile.cache
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\Encryption_MarkupCompile.lref
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\MainWindow.baml
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\Encryption.g.resources
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Users\Gev\Desktop\Program Security\Encryption\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
